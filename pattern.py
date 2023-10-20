@@ -1,4 +1,4 @@
-# Ask the user for an input for how many lines should be printed in the pattern
+# Define a variable for the number of rows in the pattern, here it's 5.
 n = 5
 
 # Define a function that takes an integer n and prints a pattern
